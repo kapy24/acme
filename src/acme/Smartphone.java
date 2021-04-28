@@ -49,6 +49,7 @@ public class Smartphone {
 	 * 
 	 * @param city la ciudad que desea buscar para los correcaminos
 	 * @param state el país en el que desea buscar correcaminos
+     * @param provincia
 	 * @return las coordenadas del correcaminos más cercano en su área
 	 * @throws IOException Devuelve una excepción si no puede encontrarse el país
 	 */
